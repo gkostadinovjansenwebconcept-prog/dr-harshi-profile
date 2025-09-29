@@ -1,0 +1,610 @@
+<script type="application/ld+json">
+{
+  "@context": "https:\/\/schema.org\/",
+  "@type": "Person",
+  "name": "Dr. Harshi Dhingra",
+  "familyName": "Dhingra",
+  "givenName": "Harshi",
+  "gender": "Female",
+  "email": "drharshidhingra@gmail.com",
+  "image": "https:\/\/scholar.google.com\/citations?user=bIH4_ZkAAAAJ&hl=en",
+  "callSign": "Pathologist & Medical Expert: Dr. Harshi Dhingra. Specializing in Diagnostic Pathology, Medical Research, and Medical Content Review.",
+  "@id": "https:\/\/scholar.google.com\/citations?user=bIH4_ZkAAAAJ&hl=en#about",
+  "url": "https:\/\/scholar.google.com\/citations?user=bIH4_ZkAAAAJ&hl=en",
+  "alternateName": [
+    "Dr. Harshi Dhingra MD",
+    "Harshi Dhingra MBBS",
+    "Dr. H Dhingra",
+    "Professor Harshi Dhingra",
+    "Harshi Dhingra",
+    "H Dhingra"
+  ],
+  "description": "Dr. Harshi Dhingra is a distinguished Professor of Pathology, MBBS, MD, based at Noida International Institute of Medical sciences (NIIMS), located in Greater Noida, Uttar Pradesh, India. With over a decade of experience in diagnostic medicine, clinical pathology, and medical research, Dr. Dhingra specializes in cytology, histopathology, and haematopathology. Dr. Harshi Dhingra holds medical registrations with Punjab Medical Council (Registration Number: 43173, dated February 7, 2013) and Delhi Medical Council. Dr. Dhingra obtained her MBBS degree from Bharati Vidyapeeth Deemed University, Pune (2001-2006) and completed her MD in Pathology from Rajiv Gandhi University of Health Sciences, Karnataka (2009-2012). Dr. Harshi Dhingra research profile includes 25+ peer-reviewed publications with over 175 citations on Google Scholar, contributing significantly to pathology literature with studies on Kimura disease, xanthogranulomatous pyelonephritis, cutaneous sarcoidosis, and bone metastasis histopathology. Beyond academic research, Dr. Dhingra serves as a medical writer and reviewer for multiple health platforms including Diamond Rehab Thailand, Rare Disease Advisor, BuzzRx and A Lean Life. She has also checked articles on many other online health platforms such as know your dna, Rapid Std Testing, lab testing api, The Discover Magazine, Holistic Nootropics, FastingApps, The Skillful Cook, 21dayhero, discovery body, fasting queens, we the parents etc. Dr. Harshi Dhingra expertise extends to laboratory management systems, biomedical research methodology, and quality management in medical laboratories. Dr. Dhingra combines clinical excellence with educational leadership, mentoring medical students and residents while maintaining active research contributions to diagnostic pathology and clinical medicine.",
+  "sameAs": [
+    "https:\/\/in.linkedin.com\/in\/harshi-dhingra-a95a7ba5",
+    "https:\/\/scholar.google.com\/citations?user=bIH4_ZkAAAAJ&hl=en",
+    "https:\/\/www.researchgate.net\/profile\/Harshi-Dhingra",
+    "https:\/\/diamondrehabthailand.com\/team\/dr-harshi-dhingra\/",
+    "https:\/\/holisticnootropics.com\/medical-reviewer\/dr-harshi-dhingra\/",
+    "https:\/\/fastingapps.com\/about-us\/dr-harshi-dhingra\/",
+    "https:\/\/theskillfulcook.com\/author\/04ec877eec7db6e5\/",
+    "https:\/\/www.rarediseaseadvisor.com\/author\/harshi-dhingra-md\/",
+    "https:\/\/www.buzzrx.com\/blog\/reviewer\/harshi-dhingra-m-d",
+    "https:\/\/www.aleanlife.com\/authors\/harshi-dhingra\/"
+  ],
+  "homeLocation": {
+    "@type": "Place",
+    "name": "Noida",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Noida",
+      "addressRegion": "Uttar Pradesh",
+      "addressCountry": "India"
+    }
+  },
+  "hasCertification": [
+    {
+      "@type": "Certification",
+      "name": "MBBS",
+      "about": "Bachelor of Medicine, Bachelor of Surgery",
+      "educationalLevel": "Undergraduate",
+      "issuedBy": {
+        "@type": "CollegeOrUniversity",
+        "name": "Bharati Vidyapeeth Deemed University",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Pune",
+          "addressRegion": "Maharashtra",
+          "addressCountry": "India"
+        }
+      }
+    },
+    {
+      "@type": "Certification",
+      "name": "MD in Pathology",
+      "about": "Doctor of Medicine in Pathology",
+      "educationalLevel": "Postgraduate",
+      "issuedBy": {
+        "@type": "CollegeOrUniversity",
+        "name": "Rajiv Gandhi University of Health Sciences",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Karnataka",
+          "addressCountry": "India"
+        }
+      }
+    },
+    {
+      "@type": "Certification",
+      "name": "Punjab Medical Council Registration",
+      "about": "Medical License",
+      "identifier": "43173",
+      "issuedBy": {
+        "@type": "Organization",
+        "name": "Punjab Medical Council",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Punjab",
+          "addressCountry": "India"
+        }
+      }
+    },
+    {
+      "@type": "Certification",
+      "name": "Delhi Medical Council Registration",
+      "about": "Medical License",
+      "issuedBy": {
+        "@type": "Organization",
+        "name": "Delhi Medical Council",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Delhi",
+          "addressCountry": "India"
+        }
+      }
+    },
+    {
+      "@type": "Certification",
+      "name": "Quality Management System and Internal Audit in Medical Laboratories",
+      "about": "Laboratory Management",
+      "educationalLevel": "Professional",
+      "issuedBy": {
+        "@type": "Organization",
+        "name": "ISO (International Organization for Standardization) 15189:2022"
+      }
+    },
+    {
+      "@type": "Certification",
+      "name": "Basic Course in Biomedical Research",
+      "about": "Research Methodology",
+      "educationalLevel": "Professional",
+      "issuedBy": {
+        "@type": "Organization",
+        "name": "Research Training Institute"
+      }
+    },
+    {
+      "@type": "Certification",
+      "name": "Revised Basic Course Workshop (rBCW) in Medical Education Technologies",
+      "educationalLevel": "Professional",
+      "about": {
+        "@type": "Thing",
+        "name": "Faculty Development Programme for Medical Education"
+      },
+      "issuedBy": {
+        "@type": "Organization",
+        "name": "National Medical Commission (NMC)"
+      }
+    },
+    {
+      "@type": "Certification",
+      "name": "Curriculum Implementation Support Program (CISP)",
+      "educationalLevel": "Professional",
+      "about": {
+        "@type": "Thing",
+        "name": "Faculty Development Programme for Medical Education"
+      },
+      "issuedBy": {
+        "@type": "Organization",
+        "name": "National Medical Commission (NMC)"
+      }
+    }
+  ],
+  "jobTitle": {
+    "@type": "DefinedTerm",
+    "name": "Professor of Pathology",
+    "sameAs": [
+      "https:\/\/www.wikidata.org\/wiki\/Q121594",
+      "https:\/\/www.wikidata.org\/wiki\/Q3368718"
+    ],
+    "inDefinedTermSet": {
+      "@type": "DefinedTermSet",
+      "name": "Medical Profession"
+    }
+  },
+  "worksFor": [
+    {
+      "@type": "Organization",
+      "name": "Noida International Institute of Medical sciences (NIIMS)",
+      "description": "Medical college and research institution specializing in medical education, clinical care, and biomedical research",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Greater Noida",
+        "addressRegion": "Uttar Pradesh",
+        "addressCountry": "India"
+      },
+      "areaServed": [
+        {
+          "@type": "Country",
+          "name": "India"
+        }
+      ]
+    },
+    {
+      "@type": "Organization",
+      "name": "Diamond Rehab Thailand",
+      "description": "Medical content writing and review services",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "8, Moo 14, Soi Mon Mai Hin Lek Fai",
+        "addressLocality": "Hua Hin District",
+        "addressRegion": "Chang Wat Prachuap Khiri Khan",
+        "addressCountry": "Thailand",
+        "postalCode": "77110"
+      }
+    },
+    {
+      "@type": "Organization",
+      "name": "Rare Disease Advisor",
+      "description": "Contributor/medical reviewer. Rare Disease Advisor, by Haymarket medical network is an online resource for health care professionals who treat patients with rare diseases. Rare Disease Advisor is an online resource that provides health care professionals with comprehensive information on important principles of care in rare diseases as well as up-to-date clinical news on the diagnosis and treatment of these conditions."
+    },
+    {
+      "@type": "Organization",
+      "name": "BuzzRx",
+      "description": "Medically reviewing the drug content"
+    },
+    {
+      "@type": "Organization",
+      "name": "Learna/Diploma Msc",
+      "description": "Online tutor facilitating engaging discussions, providing support, feedback, and guidance to students through academic forums, reflective journals and direct messages in postgraduate programmes"
+    }
+  ],
+  "knows": [
+    {
+      "@type": "Person",
+      "name": "Dr. R Nagpal",
+      "description": "Co-author on Kimura disease research"
+    },
+    {
+      "@type": "Person",
+      "name": "Dr. A Baliyan",
+      "description": "Frequent research collaborator and co-author"
+    },
+    {
+      "@type": "Person",
+      "name": "Dr. SR Alva",
+      "description": "Co-author on Kimura disease case study"
+    },
+    {
+      "@type": "Person",
+      "name": "Dr. R Kundu",
+      "description": "Co-author on xanthogranulomatous pyelonephritis study"
+    },
+    {
+      "@type": "Person",
+      "name": "Dr. V Bhalla",
+      "description": "Research collaborator"
+    },
+    {
+      "@type": "Person",
+      "name": "Dr. RS Punia",
+      "description": "Senior research collaborator"
+    },
+    {
+      "@type": "Person",
+      "name": "Dr. P Singh",
+      "description": "Co-author on cutaneous sarcoidosis research"
+    },
+    {
+      "@type": "Person",
+      "name": "Dr. E Jain",
+      "description": "Research collaborator"
+    },
+    {
+      "@type": "Person",
+      "name": "Dr. H Mohan",
+      "description": "Senior research mentor and collaborator"
+    },
+    {
+      "@type": "Person",
+      "name": "Dr. GP Thami",
+      "description": "Dermatology research collaborator"
+    },
+    {
+      "@type": "Person",
+      "name": "Dr. M Kumar",
+      "description": "Co-author on spiradenocylindroma study"
+    },
+    {
+      "@type": "Person",
+      "name": "Dr. P Aggarwal",
+      "description": "Oncology research collaborator"
+    },
+    {
+      "@type": "Person",
+      "name": "Dr. SK Garg",
+      "description": "Research collaborator in bone metastasis studies"
+    }
+  ],
+  "knowsAbout": [
+    {
+      "@type": "Thing",
+      "name": "Pathology",
+      "description": "Medical specialty involving the diagnosis of disease through examination of organs, tissues, bodily fluids, and whole bodies. Pathology bridges science and medicine.",
+      "sameAs": [
+        "https:\/\/en.wikipedia.org\/wiki\/Pathology",
+        "https:\/\/www.wikidata.org\/wiki\/Q7208"
+      ]
+    },
+    {
+      "@type": "Thing",
+      "name": "Cytology",
+      "description": "Branch of life science that deals with study of cells in terms of structure, function and chemistry. Cytology is used to diagnose diseases.",
+      "sameAs": [
+        "https:\/\/en.wikipedia.org\/wiki\/Cytology",
+        "https:\/\/www.wikidata.org\/wiki\/Q3009579",
+        "https:\/\/www.google.com\/search?kgmid=\/m\/01wfw"
+      ]
+    },
+    {
+      "@type": "Thing",
+      "name": "Histopathology",
+      "description": "Microscopic examination of tissue in order to study the manifestations of disease. Histopathology is essential for disease diagnosis.",
+      "sameAs": [
+        "https:\/\/en.wikipedia.org\/wiki\/Histopathology",
+        "https:\/\/www.wikidata.org\/wiki\/Q1070952",
+        "https:\/\/www.google.com\/search?kgmid=\/m\/03546"
+      ]
+    },
+    {
+      "@type": "Thing",
+      "name": "Haematopathology",
+      "description": "Study of diseases of blood, bone marrow, and lymphoid tissues. Haematopathology combines morphology with flow cytometry and molecular techniques.",
+      "sameAs": [
+        "https:\/\/en.wikipedia.org\/wiki\/Hematopathology",
+        "https:\/\/www.wikidata.org\/wiki\/Q17143415",
+        "https:\/\/www.google.com\/search?kgmid=\/m\/0clllf"
+      ]
+    },
+    {
+      "@type": "Thing",
+      "name": "Diagnostic Medicine",
+      "description": "Medical practice of determining which disease or condition explains a person's symptoms and signs. Diagnostic medicine uses various tests and examinations.",
+      "sameAs": [
+        "https:\/\/en.wikipedia.org\/wiki\/Medical_diagnosis",
+        "https:\/\/www.wikidata.org\/wiki\/Q177719",
+        "https://www.google.com/search?kgmid=/g/121yyf_8"
+      ]
+    },
+    {
+      "@type": "Thing",
+      "name": "Medical Research",
+      "description": "Basic and applied research to advance medical knowledge. Medical research includes clinical trials, epidemiological studies, and laboratory investigations.",
+      "sameAs": [
+        "https:\/\/en.wikipedia.org\/wiki\/Medical_research",
+        "https:\/\/www.wikidata.org\/wiki\/Q2752427"
+      ]
+    },
+    {
+      "@type": "Thing",
+      "name": "Clinical Laboratory Management",
+      "description": "Management of medical laboratory operations including quality control, personnel management, and regulatory compliance. Laboratory management ensures accurate diagnostic results.",
+      "sameAs": [
+        "https:\/\/en.wikipedia.org\/wiki\/Medical_laboratory",
+        "https:\/\/www.wikidata.org\/wiki\/Q2296168",
+        "https:\/\/www.google.com\/search?kgmid=\/g\/113td294w"
+      ]
+    },
+    {
+      "@type": "Thing",
+      "name": "Medical Education",
+      "description": "Education related to the practice of being a medical practitioner. Medical education includes undergraduate, postgraduate, and continuing medical education.",
+      "sameAs": [
+        "https:\/\/en.wikipedia.org\/wiki\/Medical_education",
+        "https:\/\/www.wikidata.org\/wiki\/Q126945"
+      ]
+    },
+    {
+      "@type": "Thing",
+      "name": "Medical Writing",
+      "description": "Professional writing of scientific documents by medical writers. Medical writing communicates medical information clearly and accurately.",
+      "sameAs": [
+        "https:\/\/en.wikipedia.org\/wiki\/Medical_writing",
+        "https:\/\/www.wikidata.org\/wiki\/Q6806625",
+        "https:\/\/www.google.com\/search?kgmid=\/m\/079y65"
+      ]
+    },
+    {
+      "@type": "Thing",
+      "name": "Biomedical Research",
+      "description": "Basic and applied research conducted to aid and support the body of knowledge in the field of medicine. Biomedical research advances understanding of disease mechanisms.",
+      "sameAs": [
+        "https:\/\/en.wikipedia.org\/wiki\/Medical_research",
+        "https:\/\/www.wikidata.org\/wiki\/Q2752427",
+        "https:\/\/www.google.com\/search?kgmid=\/m\/06ywtl"
+      ]
+    },
+    {
+      "@type": "Thing",
+      "name": "Kimura Disease",
+      "description": "Rare benign chronic inflammatory disorder of unknown etiology. Kimura disease primarily affects Asian males and involves lymphoid tissue.",
+      "sameAs": [
+        "https:\/\/en.wikipedia.org\/wiki\/Kimura_disease",
+        "https:\/\/www.wikidata.org\/wiki\/Q2069545",
+        "https:\/\/www.google.com\/search?kgmid=\/m\/04f5nd6"
+      ]
+    },
+    {
+      "@type": "Thing",
+      "name": "Xanthogranulomatous Pyelonephritis",
+      "description": "Rare form of chronic pyelonephritis characterized by destruction and replacement of renal parenchyma by lipid-laden macrophages and giant cells.",
+      "sameAs": [
+        "https:\/\/en.wikipedia.org\/wiki\/Xanthogranulomatous_pyelonephritis",
+        "https:\/\/www.wikidata.org\/wiki\/Q4243298"
+      ]
+    },
+    {
+      "@type": "Thing",
+      "name": "Addiction Medicine",
+      "description": "Medical specialty dealing with prevention, evaluation, diagnosis, treatment, and recovery from substance use disorders. Addiction medicine encompasses pharmacological and behavioral interventions.",
+      "sameAs": [
+        "https:\/\/en.wikipedia.org\/wiki\/Addiction_medicine",
+        "https:\/\/www.wikidata.org\/wiki\/Q55190072"
+      ]
+    },
+    {
+      "@type": "Thing",
+      "name": "Substance Abuse Treatment",
+      "description": "Medical and psychological treatment for dependency on psychoactive substances including alcohol, prescription drugs, and street drugs. Treatment includes detoxification, counseling, and medication-assisted therapy.",
+      "sameAs": [
+        "https:\/\/en.wikipedia.org\/wiki\/Drug_rehabilitation",
+        "https:\/\/www.wikidata.org\/wiki\/Q915736",
+        "https:\/\/www.google.com\/search?kgmid=\/m\/0278r2"
+      ]
+    },
+    {
+      "@type": "Thing",
+      "name": "Detoxification",
+      "description": "Medical process of removing toxic substances from the body, particularly in substance abuse treatment. Detoxification involves managing withdrawal symptoms under medical supervision.",
+      "sameAs": [
+        "https:\/\/en.wikipedia.org\/wiki\/Drug_detoxification",
+        "https:\/\/www.wikidata.org\/wiki\/Q1141429",
+        "https:\/\/www.google.com\/search?kgmid=\/m\/01xtmj"
+      ]
+    },
+    {
+      "@type": "Thing",
+      "name": "Behavioral Therapy",
+      "description": "Psychological treatment approach for addiction focusing on changing maladaptive behaviors. Includes cognitive-behavioral therapy, contingency management, and motivational interviewing.",
+      "sameAs": [
+        "https:\/\/en.wikipedia.org\/wiki\/Behaviour_therapy",
+        "https:\/\/www.wikidata.org\/wiki\/Q830257",
+        "https:\/\/www.google.com\/search?kgmid=\/m\/064701"
+      ]
+    },
+    {
+      "@type": "Thing",
+      "name": "Dual Diagnosis Treatment",
+      "description": "Integrated treatment for individuals with both substance use disorders and mental health conditions. Addresses co-occurring disorders simultaneously for comprehensive recovery.",
+      "sameAs": [
+        "https:\/\/en.wikipedia.org\/wiki\/Dual_diagnosis",
+        "https:\/\/www.wikidata.org\/wiki\/Q2914812"
+      ]
+    },
+    {
+      "@type": "Thing",
+      "name": "Opioid Addiction Treatment",
+      "description": "Specialized medical treatment for opioid use disorder including medication-assisted treatment with methadone, buprenorphine, or naltrexone combined with behavioral therapy.",
+      "sameAs": [
+        "https:\/\/en.wikipedia.org\/wiki\/Opioid_use_disorder",
+        "https:\/\/www.wikidata.org\/wiki\/Q1639178"
+      ]
+    },
+    {
+      "@type": "Thing",
+      "name": "Alcohol Use Disorder",
+      "description": "Medical condition characterized by an impaired ability to stop or control alcohol use despite adverse social, occupational, or health consequences.",
+      "sameAs": [
+        "https:\/\/en.wikipedia.org\/wiki\/Alcohol_use_disorder",
+        "https:\/\/www.wikidata.org\/wiki\/Q15326",
+        "https:\/\/www.google.com\/search?kgmid=\/m\/012jc"
+      ]
+    },
+    {
+      "@type": "Thing",
+      "name": "Drug Rehabilitation",
+      "description": "Medical and psychotherapeutic treatment for dependency on psychoactive substances. Rehabilitation includes medical detox, therapy, counseling, and aftercare support.",
+      "sameAs": [
+        "https:\/\/en.wikipedia.org\/wiki\/Drug_rehabilitation",
+        "https:\/\/www.wikidata.org\/wiki\/Q915736",
+        "https:\/\/www.google.com\/search?kgmid=\/m\/0278r2"
+      ]
+    },
+    {
+      "@type": "Thing",
+      "name": "Addiction Psychiatry",
+      "description": "Psychiatric subspecialty focusing on evaluation, diagnosis, and treatment of addiction disorders. Combines psychiatric and addiction medicine approaches for comprehensive care.",
+      "sameAs": [
+        "https:\/\/en.wikipedia.org\/wiki\/Addiction_psychiatry",
+        "https:\/\/www.wikidata.org\/wiki\/Q4681117"
+      ]
+    }
+  ],
+  "alumniOf": [
+    {
+      "@type": "CollegeOrUniversity",
+      "name": "Bharati Vidyapeeth Deemed University",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Pune",
+        "addressRegion": "Maharashtra",
+        "addressCountry": "India"
+      }
+    },
+    {
+      "@type": "CollegeOrUniversity",
+      "name": "Rajiv Gandhi University of Health Sciences",
+      "address": {
+        "@type": "PostalAddress",
+        "addressRegion": "Karnataka",
+        "addressCountry": "India"
+      }
+    },
+    {
+      "@type": "CollegeOrUniversity",
+      "name": "Government Medical College & Hospital, Chandigarh",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Chandigarh",
+        "addressRegion": "Punjab",
+        "addressCountry": "India"
+      }
+    }
+  ],
+  "award": [
+    "Medical Reviewer Recognition for Evidence-Based Content",
+    "Research Publication Impact Award",
+    "Teaching Excellence in Pathology"
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https:\/\/schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Who is Dr. Harshi Dhingra?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Dr. Harshi Dhingra is a Professor of Pathology, MBBS, MD, based at Noida International Institute of Medical sciences (NIIMS), located in Greater Noida, Uttar Pradesh, India. Dr. Harshi Dhingra is a distinguished medical professional with over a decade of experience in diagnostic pathology, clinical medicine, and medical research."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are Dr. Harshi Dhingra's medical qualifications?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Dr. Harshi Dhingra holds an MBBS degree from Bharati Vidyapeeth Deemed University, Pune (2001-2006) and an MD in Pathology from Rajiv Gandhi University of Health Sciences, Karnataka (2009-2012). Dr. Harshi Dhingra is registered with Punjab Medical Council (Registration #43173) and Delhi Medical Council."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are Dr. Harshi Dhingra's areas of medical specialization?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Dr. Dhingra specializes in Pathology with expertise in cytology, histopathology, and haematopathology. Dr. Harshi Dhingra research focuses on diagnostic medicine, rare diseases like Kimura disease, xanthogranulomatous pyelonephritis, cutaneous sarcoidosis, and bone metastasis histopathology."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is Dr. Harshi Dhingra's research profile?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Dr. Dhingra has published 25+ peer-reviewed research articles with over 175 citations on Google Scholar. Dr. Harshi Dhingra notable publications include studies on Kimura disease (69 citations), xanthogranulomatous pyelonephritis (51 citations), and cutaneous sarcoidosis (10 citations)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Where does Dr. Harshi Dhingra currently work?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Dr. Dhingra is a Professor of Pathology at Noida International Institute of Medical sciences (NIIMS), located in Greater Noida, Uttar Pradesh, India. Dr. Harshi Dhingra also works as a medical writer and reviewer for several health platforms including Diamond Rehab Thailand, Rare Disease Advisor, BuzzRx, and A Lean Life."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How can I verify Dr. Harshi Dhingra's medical credentials?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Dr. Dhingra's medical credentials can be verified through Punjab Medical Council (Registration #43173, dated February 7, 2013) and Delhi Medical Council. Dr. Harshi Dhingra academic credentials can be verified through her alma maters: Bharati Vidyapeeth Deemed University and Rajiv Gandhi University of Health Sciences."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What additional training does Dr. Harshi Dhingra have?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Beyond her medical degrees, Dr. Dhingra has completed specialized training in Quality Management in Medical Laboratories, Basic Course in Biomedical Research, and Laboratory Management Systems and Internal Audit."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is Dr. Harshi Dhingra's role in medical content writing?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Dr. Dhingra serves as a medical writer and reviewer for multiple health platforms, ensuring medical content accuracy and evidence-based information. Dr. Harshi Dhingra reviews articles on topics including mental health, nutrition, fasting, rare diseases, drug information, and general medical conditions for platforms like Diamond Rehab Thailand, Rare Disease Advisor, BuzzRx, and A Lean Life. She has also contributed to many other health platforms."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Has Dr. Harshi Dhingra received any recognition for her work?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Dr. Dhingra has been recognized as a medical expert and reviewer across multiple platforms. Dr. Harshi Dhingra research contributions have been cited over 165 times, indicating significant impact in the pathology field. Dr. Harshi Dhingra has also been featured as a medical reviewer and fact-checker for authoritative health content."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How can I access Dr. Harshi Dhingra's research publications?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Dr. Dhingra's research publications can be accessed through her Google Scholar profile (https:\/\/scholar.google.com\/citations?user=bIH4_ZkAAAAJ&hl=en) and ResearchGate profile. Dr. Harshi Dhingra publications appear in indexed journals including Medicine and Pharmacy Reports, Indian Journal of Nephrology, and Indian Journal of Medical and Paediatric Oncology."
+      }
+    }
+  ],
+  "@id": "https:\/\/scholar.google.com\/citations?user=bIH4_ZkAAAAJ&hl=en"
+}
+</script>
